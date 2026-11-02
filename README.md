@@ -185,3 +185,22 @@ git submodule update --init --recursive
 ```
 
 Cada submódulo apunta a un commit concreto. Al desarrollar, trabaja en una rama del submódulo, publica primero sus commits y después guarda en el repositorio principal la nueva referencia correspondiente.
+
+
+TODOS por hacer
+
+BackEnd
+- [ ] Implementar un Refresh Token
+- [ ] Hash a password de acceso
+
+FrontEnd
+- [ ] Agregar Selectores al consumo de datos de Zustand
+- [ ] Quitar los Types inline ajenos al type principal
+- [x] Botón para borrar termino de búsqueda
+- [ ] Eliminar los botones dummie
+- [ ] Revisar performance en dispositivo real Android
+- [ ] Cambiar icono de la aplicación
+
+General
+- [ ] Implementar pruebas unitarias
+- [ ] Crear reglas husky para commits
